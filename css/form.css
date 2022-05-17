@@ -1,0 +1,72 @@
+body {
+  background: #e8e1e1;
+}
+
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.input {
+  line-height: 40px;
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  outline: none;
+  font-size: 16px;
+}
+
+.label {
+  text-align: left;
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+dt {
+  margin: 0;
+}
+
+dd {
+  margin: 0;
+}
+
+.text {
+  outline: none;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+.submit {
+  border: 1px solid #2f2f2f;
+  margin: 0 auto;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 32px;
+}
+
+.submit:hover {
+  background-color: silver;
+  color: #fff;
+}
+
+.btn {
+  margin: 0;
+  line-height: 30px;
+}
+
+.btn a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+
